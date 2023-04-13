@@ -1,4 +1,6 @@
 <?php 
   echo "Bienvenidos";
-  echo "Este es mi primer codigo"
+  echo "Este es mi primer codigo";
+  echo "Despedida";
+  echo "mensaje";
 ?>
